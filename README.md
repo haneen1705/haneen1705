@@ -50,19 +50,19 @@ AI Image Generation · AI Video Generation · Arabic / English Content · Figma 
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<a href="https://www.yume-crochetes.store"><img src="assets/yume-cover.png" width="100%"/></a>
+<td width="33%" height="80%" valign="top">
+<a href="https://www.yume-crochetes.store"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/b160e8254810287.6a967c1ba63d0.png" width="100%"/></a>
 <br/><b>Yume</b><br/>
 Full e-commerce platform for a handmade crochet wearables brand — designed in Figma, built solo in Next.js<br/>
 <a href="https://www.yume-crochetes.store">Live ↗</a>
 </td>
-<td width="33%" valign="top">
+<td width="33%" height="60%" valign="top">
 <a href="https://www.behance.net/gallery/246169841/Tadawena-a-Pharmaceutical-Brands-First-Digital-Home"><img src="https://mir-s3-cdn-cf.behance.net/projects/404/cf0965246169841.69c2dd2435162.jpg" width="100%"/></a>
 <br/><b>Tadawena</b><br/>
 A pharmaceutical brand's first digital home — website UI/UX design<br/>
 <a href="https://www.tadawena.com">Live ↗</a>
 </td>
-<td width="33%" valign="top">
+<td width="33%" height="60%" valign="top">
 <a href="https://www.behance.net/gallery/253454509/Dukkan-Saudi-Marketplace-UIUX-Design-Case-Study"><img src="https://mir-s3-cdn-cf.behance.net/projects/404/ecec90253454509.Y3JvcCw1NzYwLDQ1MDUsMCww.png" width="100%"/></a>
 <br/><b>Dukkan (دكان)</b><br/>
 Classifieds marketplace concept for the Saudi market<br/>
