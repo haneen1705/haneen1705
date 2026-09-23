@@ -6,9 +6,9 @@
 
 ### 🐈‍⬛ About Me
 
-- 🎨 UI/UX Designer with ~1.5 years of experience, currently part-time at **[Orpeaks](https://orpeaks.io)**
+- 🎨 UI/UX Designer with ~2 years of experience, currently part-time at **[Orpeaks](https://orpeaks.com)**
 - 🎓 4th-year Computer Science student at **FCIS, Mansoura University**
-- 🧠 Mentoring entry-level designers through **Technical Gates** at Mansoura University
+- 🧠 Mentoring entry-level designers through **CIS Team** at Mansoura University
 - 📜 Pursuing the **Google UX Design Certificate** & **Google Agile Project Management** course
 - ☕ Fueled by coffee, chaos, and clean interfaces — in that order
 - 💻 Also skilled in vibe coding — I don't just design products, I ship them (see **Yume** below, designed *and* built solo)
